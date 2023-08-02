@@ -7,9 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah-araf&label=Profile%20views&color=0e75b6&style=flat" alt="ah-araf" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://md-arafathossain.web.app](https://md-arafathossain.web.app)
+- 📧 Email- **arafathossain.baiust@gmail.com**
+- 🔗 Portfolio- [https://md-arafathossain.web.app](https://md-arafathossain.web.app)
+- 📄 Resume- [https://drive.google.com/file](https://drive.google.com/file/d/1iSEY27DvmMOWVn_YmP1j1eHZbZTEWt7b/view)
 
-- 📫 How to reach me **arafathossain.baiust@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
