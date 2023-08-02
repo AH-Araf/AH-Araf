@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah-araf&label=Profile%20views&color=0e75b6&style=flat" alt="ah-araf" /> </p>
 
 - 📧 Email- **arafathossain.baiust@gmail.com**
-- 🔗 Portfolio- [https://md-arafathossain.web.app](https://md-arafathossain.web.app)
-- 📄 Resume- [https://drive.google.com/file](https://drive.google.com/file/d/1iSEY27DvmMOWVn_YmP1j1eHZbZTEWt7b/view)
+- 🔗 [Portfolio](https://md-arafathossain.web.app)
+- 📄 [Resume](https://drive.google.com/file/d/1iSEY27DvmMOWVn_YmP1j1eHZbZTEWt7b/view)
 
 
 
