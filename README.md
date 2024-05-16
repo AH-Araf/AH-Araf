@@ -9,7 +9,7 @@
 
 - 📧  **arafathossainwd@gmail.com**
 - 🔗 [Portfolio](https://md-arafathossain.web.app)
-- 📄 [Resume](https://drive.google.com/file/d/1iSEY27DvmMOWVn_YmP1j1eHZbZTEWt7b/view)
+- 📄 [Resume](https://drive.google.com/file/d/1L_IGkRvMAdNm5Q05toK-bQzevRBeCFNY/view?usp=sharing)
 
 
 
